@@ -1,0 +1,14 @@
+projetoalfa\repository\ModuleRepository.class
+projetoalfa\controller\TicketController.class
+projetoalfa\repository\TicketRepository.class
+projetoalfa\controller\DashboardController.class
+projetoalfa\model\Client.class
+projetoalfa\model\Module.class
+projetoalfa\DashboardApplication.class
+projetoalfa\repository\ClientRepository.class
+projetoalfa\service\TicketService.class
+projetoalfa\model\Ticket.class
+projetoalfa\dto\TicketDTO.class
+projetoalfa\DashboardApplication$1.class
+projetoalfa\dto\DashboardResponseDTO.class
+projetoalfa\dto\GroupByDTO.class
